@@ -1,7 +1,43 @@
-## Olá! 👋 Eu sou o Francesco
+# 👋 Olá, eu sou Francesco  
 
-📘Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
-🧑‍💻Atualmente estou vendo as linguagens C++, Python, Java e PHP.  <br>
-🧑‍💼Estou procurando um estágio na área para me aprimorar nos conhecimentos. <br>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+💻 Buscando meu **primeiro estágio na área de TI**  
+🌱 Atualmente aprendendo mais sobre **desenvolvimento full stack**  
 
-Confira alguns de meus projetos desenvolvidos por mim, e projetos desenvolvidos durante as aulas da faculdade.
+---
+
+## 🚀 Sobre mim  
+- 📍 Sou apaixonado por tecnologia e estou construindo minha jornada na área de **desenvolvimento de software**  
+- 💡 Tenho interesse em **front-end**, mas também me identifico muito com **back-end** e banco de dados  
+- 🎮 Nos momentos de lazer, gosto de jogar **Fortnite, Minecraft, Roblox e Valorant**  
+- 🐧 Entusiasta do **Linux** – já usei Fedora, Zorin, Mint, mas hoje o meu setup principal é **Ubuntu** (desktop) e **Debian** (laptop)
+
+---
+
+## 📌 Projetos em destaque  
+- 📒 **Agenda de Contatos** – Sistema simples de cadastro e gerenciamento (em desenvolvimento)  
+- 🚀 **Startup Enersnyc** – Projeto acadêmico/TCC que une tecnologia e inovação sustentável  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+- **Linguagens:** Python, PHP, SQL (intermediário), Java, C++, C, Bash (básico)  
+- **Interesses:** Desenvolvimento Full Stack, Open Source, Linux, Front-end  
+
+---
+
+## 📊 GitHub Stats  
+
+![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Contato  
+- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)  
+- 📂 Portfólio (em breve)  
+- 📄 Currículo (em breve)  
+
+---
+
+✨ “Sempre aprendendo, sempre evoluindo.”  
