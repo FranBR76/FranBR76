@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Contato  
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/francesco-matteo-drago-venancio-081ba6292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 📂 Portfólio (em breve)  
 - 📄 Currículo (em breve)  
 
