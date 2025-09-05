@@ -10,7 +10,7 @@
 - 📍 Sou apaixonado por tecnologia e estou construindo minha jornada na área de **desenvolvimento de software**  
 - 💡 Tenho interesse em **front-end**, mas também me identifico muito com **back-end** e banco de dados  
 - 🎮 Nos momentos de lazer, gosto de jogar **Fortnite, Minecraft, Roblox e Valorant**  
-- 🐧 Entusiasta do **Linux** – já usei Fedora, Zorin, Mint, mas hoje o meu setup principal é **Ubuntu** (desktop) e **Debian** (laptop)
+- 🐧 Entusiasta do **Linux** – já usei Fedora, Zorin, Mint, Debian, mas hoje o meu setup principal é **Ubuntu***
 
 ---
 
